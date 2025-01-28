@@ -13,3 +13,7 @@ main section{
     border: 3px solid rgb(36, 123, 94);
     padding: 0.8rem;
 }
+
+main section h2{
+    margin: 0;
+}
