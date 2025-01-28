@@ -10,4 +10,8 @@ main{
 
 section{
     border: 1px solid aqua;
+    background-color: aliceblue;
+}
+body{
+    background-color: red;
 }
