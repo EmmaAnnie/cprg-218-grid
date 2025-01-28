@@ -17,3 +17,9 @@ main section{
 main section h2{
     margin: 0;
 }
+
+main section.grid-col-span-2{
+    background-color: aqua;
+    border-color: rgb(11, 137, 137);
+    grid-column: span 2;
+}
